@@ -9,4 +9,8 @@ I’m an operational builder. At Guild, I lead business technology and applied A
 - **Botcast.** A written and audio briefing drawn from the AI podcasts I follow. [Visit Botcast](https://app.getbotcast.com/)
 - **Agent skills.** A set of skills I use in my own work, shared as a template for others to adapt. [Browse the skills](https://github.com/clairem0/technically-curious-skills)
 
+### Companion articles
+
+[Have Your AI Decide (A Lot of Things)](https://technicallycurious.substack.com/p/have-your-ai-decide-a-lot-of-things) · [Embrace Your New Dashboarding Superpowers](https://technicallycurious.substack.com/p/embrace-your-new-dashboarding-superpowers)
+
 [Substack](https://technicallycurious.substack.com/) · [About me](https://clairem0.github.io/)
